@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/Jordanras"><img src="https://api.daily.dev/devcards/34d85b0788404cf1a5e3026425bbe6d6.png?r=n23" width="400" alt="Ny Riantsoa Jordan Rasoloarison's Dev Card"/></a>
 <!--
 **Jordanras96/Jordanras96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
